@@ -1,5 +1,5 @@
 # Frontend Mentor - Stats preview card component
-Site Link https://utk-card.netlify.app/
+Site Link https://stats-preview-card-utk.netlify.app/
 
 ![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)
 
